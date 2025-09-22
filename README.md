@@ -1,0 +1,1 @@
+Este repositório inclui soluções práticas ligadas Educação o Brasil. Partem a ideia do modelo "mão na massa" e disponibilização para que a comunidade de educadores possa opinar, sugerir melhorias e utilizar no seu dia a dia. A idéia que fundamenta cada solução é: Eu consigo mexer, eu consigo usar.
